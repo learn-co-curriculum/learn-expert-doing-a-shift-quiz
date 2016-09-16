@@ -1,149 +1,50 @@
-# Introduction to ES6 Quiz
+# Doing a Learn Expert Shift Quiz
 ---
 
 ???
 
-# ES6 Quiz
+# Doing a Shift Quiz 
 
-?: `var` declares a block-scoped variable
+?: What day is the schedule for the upcoming week for Learn Experts sent out? 
 
-( ) True
-(x) False
+( ) Monday 
+( ) Tuesday 
+(X) Wednesday 
 
-?: `const` declares a block-scoped variable
+?: When you log in for your shift in the #learn-experts channel in Slack, what's the first thing you should type?
 
-(x) True
-( ) False
+( ) hello
+(X) @here: in
+( ) @channel: hello 
 
 ?: `let` declares a block-scoped variable
 
 (x) True
 ( ) False
 
-?: What is the final value of `obj` in the following example?
+?: Which of the following is not one of the three categories of questions you'll see in the Learn Expert chat window? 
 
-```javascript
-const obj = { foo: 1 }
+( ) requires action 
+( ) inactive question 
+(x) passive question 
 
-obj.bar = 2
-```
+?: An active question is one where
 
-( ) `{ foo: 1 }`
-( ) N/A, the above throws an error
-(x) `{ foo: 1, bar: 2 }`
-( ) `{ foo: 1, 2: bar }`
+(X) the original poster has made a comment that has not yet been responded to by a member of staff
+( ) several staff members are answering the question
+( ) a staff member has been answering the question for over 15 minutes
 
-?: Which of the following statements is _not true_ about this example?
+?: Which of the following is not a Slack channel that you should be on as a Learn Expert? 
 
-```javascript
-const obj = {
-  outer: function() {
-    const self1 = this
+( ) #learn-experts
+( ) #escalation
+(x) #learn-questions
 
-    const inner1 = () => {
-      const self2 = this
+?: When you end a shift, you should (check all that apply)
 
-      const inner2 = () => {
-        const self3 = this
-      }
-    }
-  }
-}
-```
-
-( ) `self1 === self3`
-( ) `self2 === self3`
-( ) `self1 === self2`
-(x) `self2 !== self3`
-
-?: Which of the following statements is _not true_ about this example?
-
-```javascript
-const obj = {
-  outer: function() {
-    const self1 = this
-
-    function inner1() {
-      const self2 = this
-
-      function inner2() {
-        const self3 = this
-      }
-    }
-  }
-}
-```
-
-( ) `self1 !== self3`
-( ) `self2 !== self3`
-(x) `self1 === self2`
-( ) `self2 !== self3`
-
-?: What would be the constructor of `roger` in the example below?
-
-```javascript
-class Animal {
-  constructor(noise) {
-    this.noise = noise
-  }
-
-  speak() {
-    console.log(this.noises)
-  }
-}
-
-class Dog extends Animal {
-  constructor(size) {
-    super('bark!')
-
-    this.size = size
-  }
-}
-
-const roger = new Dog('large')
-```
-
-( ) `Animal`
-(x) `Dog`
-( ) `Object`
-( ) `Function`
-
-?: What is the result of the following?
-
-```javascript
-const speed = 'quick'
-
-`The ${speed} brown fox jumps over the lazy dog.`
-```
-
-( ) `TypeError`
-( ) `SyntaxError`
-( ) 'The speed brown fox jumps over the lazy dog.'
-(x) 'The quick brown fox jumps over the lazy dog.'
-
-?: What is the value of `obj[123]` below?
-
-```javascript
-const obj = {
-  [100 + 20 + 3]: 'party!'
-}
-```
-
-( ) `undefined`
-(x) `'party!'`
-
-?: What is the final value of `array` below?
-
-```javascript
-const array = [1, 2, 3]
-const extension = [4, 5, 6]
-
-array = [...extension, ...array]
-```
-
-(x) `[1, 2, 3]`
-( ) `[1, 2, 3, 4, 5, 6]`
-( ) `[4, 5, 6, 1, 2, 3]`
+(X) Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
+(X) Post @here: out in the Slack channel 
+(X) Post a list of all questions you're in the middle of with an update on each
 
 ???
 
