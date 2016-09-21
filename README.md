@@ -31,9 +31,9 @@
 
 ?: When you end a shift, you should (check all that apply)
 
-(X) Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
-(X) Post @here: out in the #learn-experts Slack channel 
-(X) Post a list of all questions you're in the middle of with an update on each
-( ) Fill out the end of shift survey
+[X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
+[X] Post @here: out in the #learn-experts Slack channel 
+[X] Post a list of all questions you're in the middle of with an update on each
+[X] Fill out the end of shift survey
 
 ???
