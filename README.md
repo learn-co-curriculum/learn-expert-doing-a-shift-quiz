@@ -14,8 +14,8 @@
 ?: When you log in for your shift in the #learn-experts channel in Slack, what's the first thing you should type?
 
 ( ) hello
-(X) @here: in
-( ) @channel: in
+(X) @qbot in sync
+( ) @here: in
 
 ?: Where can you go to request time off? 
 
@@ -32,7 +32,7 @@
 ?: When you end a shift, you should (check all that apply)
 
 [X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on) 
-[X] Post @here: out in the #learn-experts Slack channel  
+[X] Post @qbot out in the #learn-experts Slack channel  
 [ ] Email Avidor
 [X] Fill out the end of shift survey
 
