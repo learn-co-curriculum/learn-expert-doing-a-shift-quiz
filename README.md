@@ -1,17 +1,17 @@
-# Doing a Learn Expert Shift Quiz
+# Doing a Technical Coach Shift Quiz
 ---
 
 ???
 
 # Doing a Shift Quiz 
 
-?: What day is the schedule for the upcoming week for Learn Experts sent out? 
+?: What day is the schedule for the upcoming week for Technical Coaches sent out? 
 
 ( ) Monday 
 ( ) Tuesday 
 (X) Wednesday 
 
-?: When you log in for your shift in the #learn-experts channel in Slack, what's the first thing you should type?
+?: When you log in for your shift in the #technical-coaches channel in Slack, what's the first thing you should type?
 
 ( ) hello
 (X) @qbot in sync
@@ -20,7 +20,7 @@
 ?: Where can you go to request time off? 
 
 ( ) learn.co 
-( ) Email Avidor
+( ) Email Ruth
 (x) WhenIWork
 
 ?: An active question is one where
@@ -32,8 +32,8 @@
 ?: When you end a shift, you should (check all that apply)
 
 [X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on) 
-[X] Post @qbot out in the #learn-experts Slack channel  
-[ ] Email Avidor
-[X] Fill out the end of shift survey
+[X] Post @qbot out in the #technical-coaches Slack channel  
+[ ] Email Ruth
+[X] Go to workday and fill in time worked
 
 ???
