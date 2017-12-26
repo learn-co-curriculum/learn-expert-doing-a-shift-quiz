@@ -9,7 +9,7 @@
 
 ( ) Monday 
 ( ) Tuesday 
-(X) Wednesday 
+(X) Sunday 
 
 ?: When you log in for your shift in the #technical-coaches channel in Slack, what's the first thing you should type?
 
