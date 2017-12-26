@@ -34,6 +34,6 @@
 [X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on) 
 [X] Post @qbot out in the #technical-coaches Slack channel  
 [ ] Email Ruth
-[ ] Fill out the end of shift survey
+[X] Go to workday and fill in time worked
 
 ???
